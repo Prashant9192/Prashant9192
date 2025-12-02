@@ -1,10 +1,10 @@
 # 👋 Hi, I'm Prashant Basnet
 
 <div align="center">
-  
-### Full Stack Web Developer | Next.js Enthusiast | Modern Web Solutions Builder
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Prashant.dev-blue?style=for-the-badge)](https://prashant.dev)
+### Full Stack Web Developer | React & Next.js | PHP/Laravel | SaaS & CRM Builder
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Prashant.dev-blue?style=for-the-badge)](https://prashant-portfolio-omega.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/prashant-basnet-173b87244/)
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:Prashantbasnet222@gmail.com)
 
@@ -14,98 +14,152 @@
 
 ## 👀 About Me
 
-I'm a **Full Stack Web Developer** passionate about building scalable, fast, and modern web applications. Currently, I work at **Digitrix Agency**, where I create innovative web solutions using cutting-edge technologies.
+I'm a **Full Stack Web Developer** with experience building scalable, SEO-optimized, and multilingual web applications.  
+Currently, I work at **Digitrix Agency** as a Web Developer, where I build modern, responsive web solutions using **React.js, Next.js, Tailwind, MUI, shadcn, Node.js, Express.js, and MongoDB**.
 
-### 🌱 What I'm Currently Learning
-- Advanced Next.js 16 features and optimization techniques
-- Server-side rendering and static site generation strategies
-- Database design and optimization with MongoDB
-- Modern UI/UX patterns and animations
-- Cloud deployment and DevOps practices
+Previously, I worked extensively with **PHP, Laravel, CodeIgniter, and MySQL**, delivering **CRM, CMS, EMS, inventory management systems**, and SaaS platforms. I enjoy transforming business requirements into high-performance, user-friendly applications.
 
-### 💞️ I'm Looking to Collaborate On
-- **Web Application Projects** - Full-stack applications with modern tech stacks
-- **Open Source Projects** - Contributing to Next.js, React, or web development tools
-- **Portfolio Websites** - Creating stunning portfolio sites for developers
-- **SaaS Projects** - Building scalable software-as-a-service applications
-- **E-commerce Platforms** - Developing modern e-commerce solutions
+---
+
+## 🌱 What I'm Currently Learning
+
+- Advanced **Next.js** features, performance optimization, and routing patterns  
+- **Server-side rendering (SSR)** and **static site generation (SSG)** strategies  
+- Scalable database design and query optimization with **MongoDB** and **MySQL**  
+- Modern **UI/UX patterns**, micro-interactions, and animations  
+- Deployment strategies and **DevOps** practices for production-ready apps  
+
+---
+
+## 💞️ I'm Looking to Collaborate On
+
+- **Full-Stack Web Applications** using React, Next.js, Node.js, Express.js, MongoDB, or Laravel  
+- **SaaS Platforms** – subscription-based, multi-tenant, and API-driven products  
+- **Portfolio & Business Websites** – fast, SEO-friendly, and modern UI  
+- **E-commerce & Custom Dashboards** – with role-based access and integrations  
+- **Open Source Projects** related to web tooling, React/Next.js, or backend APIs  
 
 ---
 
 ## 🛠️ Tech Stack & Skills
 
-### Frontend Development
-![Next.js](https://img.shields.io/badge/Next.js-16-black?style=flat-square&logo=next.js)
-![React](https://img.shields.io/badge/React-19-61DAFB?style=flat-square&logo=react)
-![TypeScript](https://img.shields.io/badge/TypeScript-5-3178C6?style=flat-square&logo=typescript)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-4-38B2AC?style=flat-square&logo=tailwind-css)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-12-0055FF?style=flat-square&logo=framer)
+### 🧩 Programming Languages
 
-### Backend & Database
-![Node.js](https://img.shields.io/badge/Node.js-Latest-339933?style=flat-square&logo=node.js)
-![MongoDB](https://img.shields.io/badge/MongoDB-6-47A248?style=flat-square&logo=mongodb)
-![Next.js API](https://img.shields.io/badge/Next.js_API-Routes-black?style=flat-square&logo=next.js)
+- **JavaScript, TypeScript, PHP, SQL, HTML5, CSS3**
 
-### Tools & Technologies
-![Git](https://img.shields.io/badge/Git-Fluent-F05032?style=flat-square&logo=git)
-![Vercel](https://img.shields.io/badge/Vercel-Deployed-black?style=flat-square&logo=vercel)
-![VS Code](https://img.shields.io/badge/VS_Code-Primary-007ACC?style=flat-square&logo=visual-studio-code)
+### 🎨 Frontend Development
+
+- **React.js, Next.js**
+- **Tailwind CSS, MUI, shadcn, Bootstrap**
+- **jQuery, AJAX**
+- Responsive design, reusable components, and modern UI patterns
+
+### 🧪 Backend & APIs
+
+- **Node.js, Express.js**
+- **PHP, Laravel, CodeIgniter**
+- REST API design, authentication, role-based access, and performance tuning
+
+### 🗄️ Databases
+
+- **MongoDB**
+- **MySQL**
+
+### 🛠️ Tools & Platforms
+
+- **Git, GitHub**
+- **Vercel**
+- **REST APIs, JSON**
+- VS Code and modern dev tooling
 
 ---
 
-## 💼 Current Status
+## 💼 Professional Experience
 
-- 🏢 Working at **Digitrix Agency** as a Full Stack Web Developer
-- 🌐 Building modern portfolio websites and web applications
-- 📚 Continuously learning and improving my development skills
-- 🚀 Available for freelance projects and collaborations
+### 🚀 Digitrix Agency — Web Developer  
+**Aug 2024 – Present | Mumbai, India**
+
+- Build and maintain **responsive web applications** using React.js, Next.js, Tailwind, MUI, and shadcn.  
+- Develop and optimize **REST APIs** with Node.js and Express.js, reducing response time and handling **5K+ monthly users**.  
+- Implement **multilingual support** and **SEO strategies** to improve accessibility and organic traffic.  
+- Collaborate with designers and backend engineers to deliver **scalable, mobile-first solutions**.
 
 ---
 
-## 📊 GitHub Stats
+### 💻 Bonum eDesign — Sr. PHP Developer  
+**Apr 2024 – Jun 2024 | Mumbai, India**
 
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Prashant9192&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117)
+- Managed multiple client projects, delivering **secure and optimized PHP/Laravel applications**.  
+- Mentored an intern, maintaining **code quality** and adherence to best practices.  
+- Improved application performance by **optimizing MySQL queries** and backend workflows.  
+- Worked closely with frontend developers to enhance **user experience and feature integration**.
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Prashant9192&layout=compact&theme=radical&hide_border=true&bg_color=0D1117)
+---
 
-![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=Prashant9192&theme=radical&hide_border=true&background=0D1117)
+### 🧱 Weblord Infotech — PHP Developer  
+**Dec 2022 – Apr 2024 | Mumbai, India**
 
-</div>
+- Developed **CRM, CMS, EMS, and inventory management systems** using Core PHP, Laravel, CodeIgniter, MySQL, and Bootstrap.  
+- Ensured **cross-browser and cross-platform compatibility** across applications.  
+- Integrated **AJAX and JSON-based features** for smoother user interactions.  
+- Improved system stability through **debugging, refactoring, and backend optimization**.
 
 ---
 
 ## 🎯 Featured Projects
 
-### 🎨 Modern Portfolio Website
-A fully responsive portfolio website built with Next.js, featuring:
-- CMS (Content Management System) for dynamic content updates
-- Dark/Light theme toggle
-- Smooth animations with Framer Motion
-- SEO optimized with dynamic meta tags
-- Admin panel with OTP authentication
+### 🎟️ Create Receipts — SaaS Web App
 
-**Tech Stack:** Next.js 16 | React 19 | TypeScript | MongoDB | Tailwind CSS
+A subscription-based SaaS platform for **personal bookkeeping and receipt management**.
+
+- Generate and manage receipts with PDF export  
+- Secure user authentication and subscription model  
+- Responsive UI for desktop and mobile users  
+
+**Tech Stack:** React.js | Node.js | MongoDB | REST API
+
+---
+
+### 🤖 AI Homework — Subscription-Based AI Platform
+
+A web platform where users can submit questions and receive **AI-generated answers**.
+
+- Question submission workflow with subscription access  
+- Backend integration with AI-powered processing  
+- User-focused interface and simple onboarding  
+
+**Tech Stack:** Next.js | Express.js | REST APIs
+
+---
+
+### 🧑‍💻 Portfolio Websites — Scantix & Shashi Gupta
+
+Modern, responsive portfolio websites showcasing personal brands and services.
+
+- Custom layouts with strong focus on **UI/UX**  
+- Mobile-first design with smooth interactions  
+- Deployed and optimized for performance and SEO  
+
+**Tech Stack:** HTML | CSS | JavaScript
 
 ---
 
 ## 📫 How to Reach Me
 
-- 📧 **Email:** [Prashantbasnet222@gmail.com](mailto:Prashantbasnet222@gmail.com)
-- 🌐 **Portfolio:** [prashant.dev](https://prashant.dev)
-- 💼 **LinkedIn:** [Prashant Basnet](https://www.linkedin.com/in/prashant-basnet-173b87244/)
+- 📧 **Email:** [Prashantbasnet222@gmail.com](mailto:Prashantbasnet222@gmail.com)  
+- 🌐 **Portfolio:** [prashant-portfolio-omega.vercel.app](https://prashant-portfolio-omega.vercel.app/)  
+- 💼 **LinkedIn:** [Prashant Basnet](https://www.linkedin.com/in/prashant-basnet-173b87244/)  
 - 📱 **GitHub:** [@Prashant9192](https://github.com/Prashant9192)
 
 ---
 
 ## 💡 Fun Facts
 
-- 🎨 Love creating beautiful, user-friendly interfaces
-- 🚀 Always excited about new web technologies
-- ☕ Coffee enthusiast (essential for coding!)
-- 🎯 Focused on writing clean, maintainable code
-- 🌟 Passionate about learning and sharing knowledge
+- 🎨 I love designing **clean, modern, and user-friendly interfaces**.  
+- 🚀 I’m always exploring **new web technologies and best practices**.  
+- ☕ Coffee powers most of my late-night coding sessions.  
+- 🎯 I care deeply about **clean, maintainable, and scalable code**.  
+- 🌟 I enjoy **learning, mentoring, and sharing knowledge** with others.
 
 ---
 
@@ -121,5 +175,4 @@ A fully responsive portfolio website built with Next.js, featuring:
 
 ---
 
-⭐ *This README is updated regularly. Check back soon for more updates!*
-
+⭐ *This README is based on my latest resume and will be updated regularly.*
