@@ -27,8 +27,8 @@ I build scalable, human-centric web experiences. Currently at **Digitrix Agency*
 | Category | Tools |
 | :--- | :--- |
 | **Frontend** | Next.js, React, TypeScript, Tailwind CSS, shadcn/ui, MUI |
-| **Backend** | Node.js, Express, PHP, Laravel, CodeIgniter |
-| **Database** | MongoDB, MySQL, PostgreSQL |
+| **Backend** | Node.js, Express, PHP, Laravel, **Firebase (Auth/Functions)** |
+| **Database** | MongoDB, **Firebase (Firestore/RTDB)**, MySQL, PostgreSQL |
 | **Tools** | Git, GitHub, Vercel, REST APIs, PDF Generation |
 
 ---
