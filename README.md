@@ -56,13 +56,14 @@ I build scalable, human-centric web experiences. Currently at **Digitrix Agency*
 
 | 🚀 GitHub Stats | 🛠️ Most Used Languages |
 | :---: | :---: |
-| ![Prashant's Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=Prashant9192&show_icons=true&theme=vision-friendly-dark&hide_border=true) | ![Prashant's Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Prashant9192&layout=compact&theme=vision-friendly-dark&hide_border=true) |
+| ![Prashant's Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=Prashant9192&show_icons=true&theme=vision-friendly-dark&hide_border=true&count_private=true&include_all_commits=true) | ![Prashant's Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Prashant9192&layout=compact&theme=vision-friendly-dark&hide_border=true) |
 
 <br/>
 
 ![Prashant's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Prashant9192&theme=react-dark&hide_border=true&area=true)
 
 </div>
+
 
 ---
 
