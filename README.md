@@ -50,8 +50,19 @@ I build scalable, human-centric web experiences. Currently at **Digitrix Agency*
 
 ---
 
-## 📊 GitHub Activity
-![Prashant's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Prashant9192&theme=react-dark)
+## 📊 GitHub Performance & Activity
+
+<div align="center">
+
+| 🚀 GitHub Stats | 🛠️ Most Used Languages |
+| :---: | :---: |
+| ![Prashant's Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=Prashant9192&show_icons=true&theme=vision-friendly-dark&hide_border=true) | ![Prashant's Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Prashant9192&layout=compact&theme=vision-friendly-dark&hide_border=true) |
+
+<br/>
+
+![Prashant's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Prashant9192&theme=react-dark&hide_border=true&area=true)
+
+</div>
 
 ---
 
@@ -61,5 +72,6 @@ I build scalable, human-centric web experiences. Currently at **Digitrix Agency*
 - **Phone:** +91 7030842261
 
 <div align="center">
+  <br/>
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Prashant9192.Prashant9192&left_color=gray&right_color=blue" alt="Visitor Count" />
 </div>
